@@ -24,7 +24,7 @@ As the pandemic continued, the ways of detecting COVID changed, and countries ch
 
 ### (2019) Replatforming services for the legal aid agency
 - [Prototype deployment pipeline for LAA services](https://github.com/ministryofjustice/deployment-pipeline-hello-world)
-- [LAA-NOLASA](https://github.com/ministryofjustice/laa-nolasa/pulls?q=is%3Apr+is%3Aclosed+author%3AMatMoore) - a more recent service we were able to open source
+- [LAA-NOLASA](https://github.com/ministryofjustice/laa-nolasa/pulls?q=is%3Apr+is%3Aclosed+author%3AMatMoore) - a smaller service that I open sourced
 
 I worked with teams at the Ministry of Justice to modernise and replatform legacy services in AWS. These applications were critical pieces of the legal aid system but had a very low satisfaction rate amongst users due to the poor user experience and frequent downtime.
 
