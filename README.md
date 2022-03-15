@@ -31,5 +31,3 @@ As the pandemic continued, the ways of detecting COVID changed, and countries ch
 I worked with teams at the Ministry of Justice to modernise and replatform legacy services in AWS. These applications were critical pieces of the legal aid system but had a very low satisfaction rate amongst users due to the poor user experience (even compared to the preceeding paper-based system) and the poor reliability.
 
 I mainly focused on reducing the cycle time to making changes to the system, as developers were hampered by inadequate development and testing environments and a lack of confidence around deployments. As part of this work I helped to introduce continuous integration with automated checks, gradle, docker and terraform.
-
-### (2018) 
