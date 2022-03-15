@@ -16,9 +16,7 @@ I created this site at the start of the pandemic to track websites where you can
 ### (2020) COVID API (no longer active)
 - Source code: [andreagrandi/covid-api](https://github.com/andreagrandi/covid-api)
 
-In early 2020 I collaborated with [@andreagrandi](https://github.com/andreagrandi) to wrangle public data about COVID rates into an API, using python and fastapi.
-
-This project was a great reminder of how important data collection and curation is when using data in the real world.
+In early 2020 I collaborated with [@andreagrandi](https://github.com/andreagrandi) to wrangle public data about COVID rates into an API, using python and fastapi. This project was a good reminder of how important data collection and curation is when relying on data for anything important.
 
 During this early phase of the pandemic, countries were scrambling to report any data at all, and there was a lot of typos and unreliable classification creeping in due to manual processing of the data. Even Johns Hopkins CSSE, the source of many figures reported in the news at the time, was publishing data with a lot of errors in it, and when we were working on this API they were often changing the schema to accomodate more and more granualar information (e.g. moving from country-level to county-level and starting to code the source of the statistics instead of relying on free text).
 
@@ -28,6 +26,6 @@ As the pandemic continued, the ways of detecting COVID changed, and countries ch
 - [Prototype deployment pipeline for LAA services](https://github.com/ministryofjustice/deployment-pipeline-hello-world)
 - [LAA-NOLASA](https://github.com/ministryofjustice/laa-nolasa/pulls?q=is%3Apr+is%3Aclosed+author%3AMatMoore) - a more recent service we were able to open source
 
-I worked with teams at the Ministry of Justice to modernise and replatform legacy services in AWS. These applications were critical pieces of the legal aid system but had a very low satisfaction rate amongst users due to the poor user experience (even compared to the preceeding paper-based system) and the poor reliability.
+I worked with teams at the Ministry of Justice to modernise and replatform legacy services in AWS. These applications were critical pieces of the legal aid system but had a very low satisfaction rate amongst users due to the poor user experience and frequent downtime.
 
-I mainly focused on reducing the cycle time to making changes to the system, as developers were hampered by inadequate development and testing environments and a lack of confidence around deployments. As part of this work I helped to introduce continuous integration with automated checks, gradle, docker and terraform.
+I mainly focused on reducing the cycle time to making changes to the system, as developers were hampered by inadequate development and testing environments and a slow manual deployment process. As part of this work I helped to introduce continuous integration with automated checks, gradle, docker and terraform.
