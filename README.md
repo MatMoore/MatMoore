@@ -1,8 +1,6 @@
 # Mat Moore
 
-I'm a senior technologist with expertise in Ruby, Python and Java. I help teams to deliver faster and address technical debt.
-
-[**Contact me about working together**](https://github.com/MatMoore/MatMoore/issues/new?assignees=MatMoore&labels=&template=contact-me.md&title=Working+together)
+I'm a senior technologist with expertise in Ruby, Python and Java.
 
 ## My projects
 Here are a few examples of my work online. For more projects, see my website at https://matmoore.github.io/
