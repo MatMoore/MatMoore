@@ -2,7 +2,7 @@
 
 Hi 👋
 
-I'm a senior technologist with expertise in Ruby, Python and Java (and more recently, Kotlin).
+I'm a senior technologist with expertise in Python and backend / full stack development.
 
 ## Links
 - [Website](https://matmoore.github.io/)
